@@ -1,0 +1,11 @@
+#literature-list{
+    display: flex;
+    flex-direction: row;
+}
+#myCollection h1{
+    color: white;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-size: 36px;
+    margin-bottom: 41px;
+}

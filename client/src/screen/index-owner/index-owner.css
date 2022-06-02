@@ -1,0 +1,14 @@
+#index-owner{
+    background-color: #E5E5E5;
+    height: 690px;
+    padding-top:59px ;
+    padding-left: 87px;
+    display: flex;
+    flex-direction: column;
+}
+#owner-container{
+    margin-right: 86px;
+    font-size: 18px;
+    text-align: center;
+    flex-wrap: wrap;
+}

@@ -1,0 +1,39 @@
+#title-addLiterature{
+    color: white;
+    margin-left: 100px;
+}
+#addLiterature input{
+    margin-left: 100px;
+    width: 1284px;
+    height:50px;
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 31px;
+    color: white;
+}
+#input-file{
+    width: 280px;
+    height: 50px;
+    margin-left: 100px;
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+    margin-top: 31px;
+    background-color:rgba(210, 210, 210, 0.25) ;
+    color: white;
+}
+#btn-addLiterature{
+    width: 192.81px;
+    height: 50px;
+    margin-left: 1190px;
+    color: white;
+    background: #EE4622;
+    border-radius: 5px;
+    margin-top: 55px;
+}
+#pdf-preview{
+    margin-left: 100px;
+    margin-top: 20px;
+}

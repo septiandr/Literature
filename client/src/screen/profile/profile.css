@@ -1,0 +1,84 @@
+#title-profile{
+    margin-left: 78px;
+    margin-top: 50px;
+    font-family: Times New Roman;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 101.5%;
+    color: white;
+}
+#profile-con{
+    margin-left: 78px;
+    width: 1275px;
+    height: 400px;
+    position: absolute;
+    background: #252525;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#main-profile{
+    margin-left: 34px;
+    margin-top: 47px;
+}
+#main-profile div{
+    display: flex;
+    flex-direction: row;
+}
+#main-profile div div{
+    display: flex;
+    margin-left: 15px;
+    flex-direction: column;
+}
+#main-profile div img{
+    width: 30px;
+    height: 30px;
+}
+#label{
+    color: white;
+}
+#main-profile div div p{
+    margin-top: -20px;
+    color: #8A8C90;
+}
+#image-profile{
+    display: flex;
+    flex-direction: column;
+    margin-right: 270px;
+}
+#image-profile img{
+    margin-top: 34px;
+    margin-right: 26px;
+    position: absolute;
+    width: 226.67px;
+    height: 202px;
+}
+#image-profile button{
+    position: absolute;
+    width: 227px;
+    height: 50px;
+    background: #AF2E1C;
+    border-radius: 5px; 
+    margin-top: 250px;
+    margin-right: 26px;
+    color: white;
+}
+#my-literature{
+    margin-left: 100px;
+    color: white;
+    margin-top: 466px;
+}
+#profile-list{
+    margin-top: 41px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#image-profile label{
+    margin-top: 100px;
+    margin-left: 50px;
+    color:white;
+    position:absolute;
+}

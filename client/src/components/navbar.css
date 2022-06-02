@@ -1,0 +1,22 @@
+#navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: #161616;
+    margin-top: 45px;
+    padding-left: 78px;
+    padding-right: 78px;
+}
+#nav-left{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 500px;
+}
+#nav-left label{
+    color: white;
+    font-size: 18px;
+}
+#navbar img{
+    margin-top: -30px;
+}

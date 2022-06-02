@@ -1,0 +1,36 @@
+#detail-literature{
+    display: flex;
+    flex-direction: row;
+    margin-top: 77px;
+    margin-left: 104px;
+
+}
+
+#detail-literature #literature{
+    width: 564px;
+    margin-left: 46px;
+}
+#literature button{
+    background-color: #AF2E1C;
+    width: 144px;
+    height: 50px;
+    border-radius: 5px;  
+    color: white; 
+    margin-top: 46px;
+    font-weight: bold;
+}
+#btn-literature button{
+    
+    width: 212px;
+    height: 50px;
+    color: white;
+    background: #AF2E1C;
+    border-radius: 5px;
+    
+
+}
+#detail-literature .react-pdf__Document .react-pdf__Page canvas{
+    width: 400px !important;
+    height: 543px !important;
+    border-radius: 10px !important;
+}

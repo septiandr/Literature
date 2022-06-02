@@ -1,0 +1,25 @@
+#card{
+    width: 200px;
+    height: 379px;
+    margin-left: 78px;
+    margin-right: 78px;
+   
+}
+canvas{
+    width: 200px !important;
+    height: 270px !important;
+    border-radius: 10px !important;
+}
+#card label{
+    color: white;
+    font-size: 24px;
+}
+#card div{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: #929292;
+}
+.react-pdf__Document div{
+    color:transparent !important;
+}

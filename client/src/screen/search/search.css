@@ -1,0 +1,24 @@
+#search-container{
+    margin-top: -350px;
+}
+#search-container img{
+    margin-left: 550px;
+    margin-top: 150px;
+    margin-bottom: 51px;
+}
+#search-container input{
+    width: 600px;
+    height: 50px;
+    margin-left: 450px;
+    background: rgba(210, 210, 210, 0.25);
+    border: 2px solid #BCBCBC;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+#btn-search{
+    width: 50px;
+    height: 50px;
+    margin-left: 1065px;
+    background-color: #AF2E1C;
+    margin-top: 280px;
+}
